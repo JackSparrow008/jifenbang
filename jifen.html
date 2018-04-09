@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>溪源会合伙人行为积分统计表</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="./public/style.css">
+  <script src="./public/vue.min.js"></script>
+  <script src="./public/scores.js"></script>
+</head>
+
+<body>
+  <div id="app">
+    <div class="container">
+      <div class="main-header">
+        <div class="container">
+          <h1>溪源会合伙人行为积分统计表</h1>
+        </div>
+      </div>
+      <form>
+        <div class="searchbar">
+          <input type="text" id="myInput" onkeyup="myFunction()" placeholder="请输入姓名">
+          <button type="button" class="btn btn-primary">Search</button>
+        </div>
+      </form>
+      <table class="table table-bordered" id="myTable">
+        <thead>
+          <tr class="active">
+            <th style="text-align: center">ID</th>
+            <th style="text-align: center">姓名</th>
+            <th style="text-align: center">积分</th>
+            <th style="text-align: center">明细</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="item in scoresBoard">
+            <td style="text-align: center">{{ item.id }}</td>
+            <td style="text-align: center">{{ item.name }}</td>
+            <td style="text-align: center">{{ item.integral }}</td>
+            <td style="text-align: center">
+              <a :href="item.id + '.html'" >{{ item.details }}</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+
+</html>
+
+<script>
+  function myFunction() {
+  // 声明变量
+  var input, filter, table, tr, td, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+ 
+  // 循环表格每一行，查找匹配项
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    } 
+  }
+}
+
+  // vue官网： https://cn.vuejs.org/v2/guide/
+  // 初始化Vue
+
+  var app = new Vue({
+    el: '#app', // #app 和html中div#id的 app 对应
+    data: {
+      scoresBoard: scores // 变量scoresBoard可以在html使用
+    }
+  });
+</script>
