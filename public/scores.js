@@ -2,7 +2,7 @@
   var scores = [{
       "id": "1",
       "name": "陈碧辉",
-      "integral": "100",
+      "integral": "120",
       "details": "查看明细"
     },
     {
@@ -86,7 +86,7 @@
     {
       "id": "15",
       "name": "徐立松",
-      "integral": "80",
+      "integral": "100",
       "details": "查看明细"
     },
     {
@@ -104,13 +104,13 @@
     {
       "id": "18",
       "name": "严萱",
-      "integral": "100",
+      "integral": "120",
       "details": "查看明细"
     },
     {
       "id": "19",
       "name": "俞亚峰",
-      "integral": "140",
+      "integral": "160",
       "details": "查看明细"
     },
     {
