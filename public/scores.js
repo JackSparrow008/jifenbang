@@ -110,7 +110,7 @@
     {
       "id": "19",
       "name": "俞亚峰",
-      "integral": "100",
+      "integral": "120",
       "details": "查看明细"
     },
     {
