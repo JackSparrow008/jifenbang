@@ -26,7 +26,7 @@
     {
       "id": "5",
       "name": "戈壁川",
-      "integral": "180",
+      "integral": "240",
       "details": "查看明细"
     },
     {
@@ -104,13 +104,13 @@
     {
       "id": "18",
       "name": "严萱",
-      "integral": "100",
+      "integral": "120",
       "details": "查看明细"
     },
     {
       "id": "19",
       "name": "俞亚峰",
-      "integral": "260",
+      "integral": "320",
       "details": "查看明细"
     },
     {
