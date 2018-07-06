@@ -74,7 +74,7 @@
     {
       "id": "13",
       "name": "徐建国",
-      "integral": "560",
+      "integral": "540",
       "details": "查看明细"
     },
     {
