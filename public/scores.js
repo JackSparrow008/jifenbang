@@ -2,7 +2,7 @@
   var scores = [{
       "id": "1",
       "name": "陈碧辉",
-      "integral": "120",
+      "integral": "140",
       "details": "查看明细"
     },
     {
@@ -26,7 +26,7 @@
     {
       "id": "5",
       "name": "戈壁川",
-      "integral": "760",
+      "integral": "780",
       "details": "查看明细"
     },
     {
@@ -50,7 +50,7 @@
     {
       "id": "9",
       "name": "申屠宇静",
-      "integral": "380",
+      "integral": "440",
       "details": "查看明细"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "13",
       "name": "徐建国",
-      "integral": "540",
+      "integral": "640",
       "details": "查看明细"
     },
     {
@@ -86,7 +86,7 @@
     {
       "id": "15",
       "name": "徐立松",
-      "integral": "380",
+      "integral": "500",
       "details": "查看明细"
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "17",
       "name": "姚梁宇",
-      "integral": "960",
+      "integral": "1160",
       "details": "查看明细"
     },
     {
@@ -110,7 +110,7 @@
     {
       "id": "19",
       "name": "俞亚峰",
-      "integral": "480",
+      "integral": "540",
       "details": "查看明细"
     },
     {
