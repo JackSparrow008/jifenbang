@@ -74,7 +74,7 @@
     {
       "id": "13",
       "name": "徐建国",
-      "integral": "840",
+      "integral": "900",
       "details": "查看明细"
     },
     {
@@ -104,7 +104,7 @@
     {
       "id": "18",
       "name": "严萱",
-      "integral": "500",
+      "integral": "520",
       "details": "查看明细"
     },
     {
@@ -116,7 +116,7 @@
     {
       "id": "20",
       "name": "郑国超",
-      "integral": "100",
+      "integral": "180",
       "details": "查看明细"
     },
     {
