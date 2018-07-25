@@ -14,19 +14,19 @@
     {
       "id": "3",
       "name": "陈一梅",
-      "integral": "140",
+      "integral": "180",
       "details": "查看明细"
     },
     {
       "id": "4",
       "name": "丁永强",
-      "integral": "0",
+      "integral": "40",
       "details": "查看明细"
     },
     {
       "id": "5",
       "name": "戈壁川",
-      "integral": "1100",
+      "integral": "1140",
       "details": "查看明细"
     },
     {
@@ -38,7 +38,7 @@
     {
       "id": "7",
       "name": "刘荣苗",
-      "integral": "40",
+      "integral": "80",
       "details": "查看明细"
     },
     {
@@ -50,13 +50,13 @@
     {
       "id": "9",
       "name": "申屠宇静",
-      "integral": "440",
+      "integral": "480",
       "details": "查看明细"
     },
     {
       "id": "10",
       "name": "吴峰青",
-      "integral": "60",
+      "integral": "100",
       "details": "查看明细"
     },
     {
@@ -68,13 +68,13 @@
     {
       "id": "12",
       "name": "王旭",
-      "integral": "40",
+      "integral": "80",
       "details": "查看明细"
     },
     {
       "id": "13",
       "name": "徐建国",
-      "integral": "900",
+      "integral": "940",
       "details": "查看明细"
     },
     {
@@ -92,43 +92,37 @@
     {
       "id": "16",
       "name": "许天岚",
-      "integral": "160",
+      "integral": "200",
       "details": "查看明细"
     },
     {
       "id": "17",
       "name": "姚梁宇",
-      "integral": "1600",
+      "integral": "1640",
       "details": "查看明细"
     },
     {
       "id": "18",
       "name": "严萱",
-      "integral": "520",
+      "integral": "560",
       "details": "查看明细"
     },
     {
       "id": "19",
       "name": "俞亚峰",
-      "integral": "620",
+      "integral": "660",
       "details": "查看明细"
     },
     {
       "id": "20",
       "name": "郑国超",
-      "integral": "180",
+      "integral": "220",
       "details": "查看明细"
     },
     {
       "id": "21",
-      "name": "朱剑",
-      "integral": "40",
-      "details": "查看明细"
-    },
-    {
-      "id": "22",
       "name": "张俊华",
-      "integral": "40",
+      "integral": "80",
       "details": "查看明细"
     }
   ];
