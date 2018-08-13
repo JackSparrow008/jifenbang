@@ -116,7 +116,7 @@
     {
       "id": "20",
       "name": "郑国超",
-      "integral": "220",
+      "integral": "240",
       "details": "查看明细"
     },
     {
