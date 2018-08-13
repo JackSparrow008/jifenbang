@@ -68,13 +68,13 @@
     {
       "id": "12",
       "name": "王旭",
-      "integral": "80",
+      "integral": "160",
       "details": "查看明细"
     },
     {
       "id": "13",
       "name": "徐建国",
-      "integral": "940",
+      "integral": "1000",
       "details": "查看明细"
     },
     {
@@ -92,19 +92,19 @@
     {
       "id": "16",
       "name": "许天岚",
-      "integral": "200",
+      "integral": "260",
       "details": "查看明细"
     },
     {
       "id": "17",
       "name": "姚梁宇",
-      "integral": "1780",
+      "integral": "1800",
       "details": "查看明细"
     },
     {
       "id": "18",
       "name": "严萱",
-      "integral": "680",
+      "integral": "740",
       "details": "查看明细"
     },
     {
