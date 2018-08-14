@@ -26,13 +26,13 @@
     {
       "id": "5",
       "name": "戈壁川",
-      "integral": "1240",
+      "integral": "1280",
       "details": "查看明细"
     },
     {
       "id": "6",
       "name": "胡军",
-      "integral": "340",
+      "integral": "360",
       "details": "查看明细"
     },
     {
@@ -68,13 +68,13 @@
     {
       "id": "12",
       "name": "王旭",
-      "integral": "160",
+      "integral": "220",
       "details": "查看明细"
     },
     {
       "id": "13",
       "name": "徐建国",
-      "integral": "1000",
+      "integral": "1160",
       "details": "查看明细"
     },
     {
@@ -86,25 +86,25 @@
     {
       "id": "15",
       "name": "徐立松",
-      "integral": "620",
+      "integral": "680",
       "details": "查看明细"
     },
     {
       "id": "16",
       "name": "许天岚",
-      "integral": "260",
+      "integral": "380",
       "details": "查看明细"
     },
     {
       "id": "17",
       "name": "姚梁宇",
-      "integral": "1800",
+      "integral": "2000",
       "details": "查看明细"
     },
     {
       "id": "18",
       "name": "严萱",
-      "integral": "740",
+      "integral": "760",
       "details": "查看明细"
     },
     {
